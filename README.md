@@ -40,11 +40,10 @@
 You can connect with me at below links:
 <br>
 [![](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/i_rahulsoni) 
-[![](https://img.shields.io/badge/Linkedin-%23000000.svg?style=for-the-badge&logo=Linkedin&logoColor=#00C7B7)](https:linkedin.com/in/rahul-soni-9186a7170)
+[![Linkedin Badge](https://img.shields.io/badge/-Rahul%20Soni-blue?style=social&logo=Linkedin&logoColor=blue&link=linkedin.com/in/rahul-soni-9186a7170/)](linkedin.com/in/rahul-soni-9186a7170/) 
 
-<a href="https://twitter.com/i_rahulsoni" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter.com/i_rahulsoni?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/irahulsoni" target="_blank" rel="noreferrer"><img
+
+<a href="https://www.github.com/irahulsoni" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/irahulsoni?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
