@@ -39,8 +39,8 @@
         
 You can connect with me at below links:
 <br>
-[![](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/i_rahulsoni) 
-[![Linkedin Badge](https://img.shields.io/badge/-Rahul%20Soni-blue?style=social&logo=Linkedin&logoColor=blue&link=linkedin.com/in/rahul-soni-9186a7170/)](linkedin.com/in/rahul-soni-9186a7170/) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/i_rahulsoni) 
+[![Linkedin Badge](https://img.shields.io/badge/-Rahul%20Soni-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rahul-soni-9186a7170/)](https://www.linkedin.com/in/rahul-soni-9186a7170/)
 
 
 <a href="https://www.github.com/irahulsoni" target="_blank" rel="noreferrer"><img
