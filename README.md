@@ -4,15 +4,15 @@
 <table role="table">
             <thead>
                 <tr>
-                    <th align="left">Some Facts About Me 👨🏻‍💻</th>
-                    <th align="left">Tech Stack 👩🏻‍💻 </th>
+                    <th align="left">Some Facts About Me 🧔🏻‍♂️</th>
+                    <th align="left">Tech Stack 👨🏻‍💻 </th>
                 </tr>
             </thead>
         <tbody>
             <tr>
                 <td align="left">
                     <ul>
-                        <li> I’m interested in Data Science and Machine Learning 👩🏻‍⚕️  </li>
+                        <li> I’m interested in Data Science and Machine Learning  </li>
                         <li> I have experience of working in Python, AWS, GCP, Spark, Scala, Hadoop, Tableau 💻 </li>
                         <li> Currently learning concepts of Machine learning and AI 📝 </li>
                         <li> I share my knowledge on data analysis, data analytics, data modeling and coding in form of tips, resources, projects and art 🕮 </li>
